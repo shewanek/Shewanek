@@ -14,8 +14,14 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Shewanek&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  
+Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shewanek Zewdu
+======================================================================================================================================
+
+Data Analyst & Data Science aspirant
+------------------------------------
+
 </h1>
 </div>
 <div align="center">
@@ -24,17 +30,18 @@
 
 <hr>
 
-
-
+<div id="header">
+  
 ### :man_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- :telescope: As a developer, I contribute to data science and machine learning initiatives.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+- :telescope: As a Data aspirant, I contribute to data science and machine learning initiatives.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shewanek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shewanek-zewdu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWqqLl5OjT9icp%2BopWJkcMQ%3D%3D)
+</div>
 
 <hr>
 
