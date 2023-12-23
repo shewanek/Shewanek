@@ -22,8 +22,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-  <hr>
----
+<hr>
+
+
 
 ### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
@@ -34,7 +35,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shewanek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shewanek-zewdu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWqqLl5OjT9icp%2BopWJkcMQ%3D%3D)
-  ---
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,8 +54,18 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
-### :fire: My Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shewanek&theme=dark&background=000000)](https://git.io/streak-stats)
+ <hr>
+  
+### Badges
+
+### :fire: <b>My GitHub Stats</b>
+
+
+
+<a href="http://www.github.com/shewanek"><img src="https://github-readme-stats.vercel.app/api?username=shewanek&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="shewanek's GitHub stats" /></a>
+
+<a href="http://www.github.com/shewanek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shewanek&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shewanek&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shewanek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
