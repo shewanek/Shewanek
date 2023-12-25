@@ -19,12 +19,12 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 <div id="header">
   
 ### :man_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Data enthusiast and aspiring Data Scientist! 📊 Excited about gaining insights from complex datasets in order to make informed judgments. I'm currently polishing my data visualization, statistical modeling, and machine learning skills. I am eager to contribute to meaningful initiatives while also extending my expertise in the ever-changing field of data science. Let's connect, collaborate, and discover the infinite potential of data together! 💻🔍 #DataAnalytics #DataScience #EnthusiastForTech
 - :telescope: As a Data aspirant, I contribute to data science and machine learning initiatives.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shewanek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shewanek-zewdu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWqqLl5OjT9icp%2BopWJkcMQ%3D%3D)
 </div>
