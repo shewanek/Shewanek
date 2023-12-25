@@ -9,19 +9,12 @@
   </a>
   <a href="https://twitter.com/Shewanek2?t=r1Isik_bLEWVnLl5JDggDg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+  </a>  
 </div>
 <img src="https://komarev.com/ghpvc/?username=Shewanek&style=flat-square&color=blue" alt=""/>
-<h1>
+<h1> 
   
-  
-Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shewanek Zewdu
-======================================================================================================================================
-
-Data Analyst & Data Science aspirant
-------------------------------------
-
+Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </h1>
 </div>
 <div align="center">
