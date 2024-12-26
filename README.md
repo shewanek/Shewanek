@@ -56,7 +56,6 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
  <hr>
 
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shewanek)](https://github.com/shewanek/github-readme-stats)
 ### Badges
 
 
